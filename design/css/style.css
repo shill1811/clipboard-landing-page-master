@@ -8,6 +8,8 @@ body {
   background-color: #f4f4f4;
   justify-content: center;
   text-align: center;
+  background-image: url("../../images/bg-header-desktop.png");
+  background-repeat: no-repeat;
   position: absolute;
 }
 .container-1 {
